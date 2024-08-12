@@ -1,13 +1,6 @@
 ### Hi there 👋, Welcome!
 
-My name is Aswin Valsaraj, Bachelors of Technology in Computer Science and Engineering, Sophmore.
-
-I am an aspiring Data Science and Machine Learning computer science Enthusiast, who loves coding and devolopment! 
-
-love to join the community that uplifts me and to give back to the community.
-
-### Working on:
-  - imporving knowledge on Data structures and Algorithms
+My name is Aswin Valsaraj, Bachelors of Technology in Computer Science and Engineering, Junior.
 
 <!--
 **aswinn03/aswinn03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
